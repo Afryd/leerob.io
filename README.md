@@ -11,9 +11,8 @@
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 
 ## Overview
-Just trying out pull requests heya
 
-- `pages/api/*` - [API routes](https://nextjs.org/docs/api-routes/introduction) powering [`/dashboard`](https://leerob.io/dashboard), newsletter subscription, and post views.
+- `pages/api/*` - [API routes](https://nextjs.org/docs/api-routes/introduction) powering [`/dashboard`](https://leerob.io/dashboard), newsletter subscription, and post views hahaha its easyyyy
 - `pages/blog/*` - Static pre-rendered blog pages using [MDX](https://github.com/mdx-js/mdx).
 - `pages/dashboard` - [Personal dashboard](https://leerob.io/dashboard) containing metrics like sales, views, and subscribers.
 - `pages/*` - All other static pages.
